@@ -310,18 +310,18 @@ body {
     content: "";
     width: 20px;
     height: 250px;
-    margin-top: -83px;
-    margin-left: -70px;
+    margin-top: -91px;
+    margin-left: -65px;
     background-color: #fecb00;
 }
 
 .name__title {
     color: #2d2d2d;
-    padding-top: 50px;
-    padding-left: 70px;
-    font-size: 35px;
+    padding-top: 65px;
+    padding-left: 65px;
+    font-size: 31px;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
 }
 
 .name__position {
